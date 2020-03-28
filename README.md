@@ -1,3 +1,6 @@
 # SLAM
 SLAM for THOR humanoid robot
-![](result/0.gif)
+Results:
+![](results/0.gif)
+![](results/1.gif)
+![](results/0.png)
