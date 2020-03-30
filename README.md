@@ -7,4 +7,4 @@ Results:
 ![](results/1.gif)
 ![](results/0.png)
 
-I would add more info later on..
+I would add more details later on..
