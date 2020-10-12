@@ -1,7 +1,6 @@
 # SLAM
-SLAM for THOR humanoid robot. This is an individual course homework project for ESE 650: Learning in Robotics at UPenn.
 
-We're given three datasets collected by IMU, odometry and Lidar sensors that are attached onto the THOR robot:
+We're given three datasets collected by IMU, odometry and Lidar sensors:
 
 The goal is to get the trajectories of the robot and obtain corresponding maps of the test building.
 
