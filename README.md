@@ -9,7 +9,9 @@ We have tested the architecture in a Highway-Env simulation environment and obse
 ![](results/high-low-level-control.png)
 
 We showed that this architecture leads to more significant performance gains. We also visualized the attention matrix, which is generated from the proposed architecture, and captured the interaction features of dense traffic.
-
+![](results/learning_curves.png)
+![](results/highwayEnv_1.png)
+![](results/highwayEnv_2.png)
 
 # Navigation with SLAM
 
