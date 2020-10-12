@@ -15,7 +15,7 @@ We showed that this architecture leads to more significant performance gains. We
 
 # Navigation with SLAM
 
-We're given three datasets collected by IMU, odometry and Lidar sensors:
+Perform SLAM for moving vehicles or robots to navigate unknwon environments.
 
 The goal is to get the trajectories of the robot and obtain corresponding maps of the test building.
 
