@@ -6,7 +6,7 @@ The proposed architecture uses a deep Q-network that can encode a varying number
 ![](results/structure_whole.png)
 
 We have tested the architecture in a Highway-Env simulation environment and observed a satisfying performance comparing to other basic DQN algorithm. During the simulation process, the road would be populated with several random vehicles and one ego vehicle. Ego vehicle takes in the high-level decisions from the agent, e.g. change to left lane, other vehicles’ behaviors are determined by Intelligent Driving Model and MOBIL model. The high-level decisions would then be converted into low-level controls: acceleration and head angle, which would be applied onto the vehicles simulated by the Kinematic Bicycle Model.
-![](results/high-low-level-control.png)
+![](results/high-low level control.png)
 
 We showed that this architecture leads to more significant performance gains. We also visualized the attention matrix, which is generated from the proposed architecture, and captured the interaction features of dense traffic.
 
